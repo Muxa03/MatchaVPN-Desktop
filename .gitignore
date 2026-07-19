@@ -1,0 +1,32 @@
+# ── Сборка .NET ──
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+publish/
+
+# ── IDE ──
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+
+# ── Нативные библиотеки туннеля (третьесторонние, см. native/README.md) ──
+native/*.exe
+native/*.dll
+native/*.so
+native/*.dylib
+
+# ── Установщики / артефакты выпуска ──
+*.exe
+*.msi
+*.zip
+*.nupkg
+
+# ── Прочее ──
+.DS_Store
+*.log
+crash.txt
