@@ -17,7 +17,9 @@
 
 iOS front — Muxa03;
 
-Windows front — pers1k1;
+linux front — pers1k1(https://github.com/pers1k1);
+
+linux front — pers1k1(https://github.com/pers1k1);
 
 macOS front — Muxa03;
 
