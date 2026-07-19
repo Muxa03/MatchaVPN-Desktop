@@ -5,3 +5,5 @@
 <h1 align="center">Привет, мы <a href="https://matchavpn.space/" target="_blank">MatchaVPN</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Стабильный VPN-провайдер</h3>
+
+Право на свободный интернет - базовая потребность человека. 
