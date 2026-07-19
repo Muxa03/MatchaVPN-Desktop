@@ -14,8 +14,13 @@
 /// Если у вас появились вопросы или классные идеи, заглядывайте к нам в службу поддержки в Telegram — @help_matcha. Наш проект полностью бесплатный и открытый. Мы безумно рады, если вдохновляем вас.
 
 /// Credits:
+
 iOS front — Muxa03;
+
 Windows front — pers1k1;
+
 macOS front — Muxa03;
+
 Android front — Muxa03;
+
 Backend — Muxa03;
