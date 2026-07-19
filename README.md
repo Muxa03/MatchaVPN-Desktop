@@ -15,14 +15,14 @@
 
 /// Credits:
 
-iOS front — Muxa03(https://github.com/Muxa03);
+ios front — Muxa03(https://github.com/Muxa03);
 
 linux front — pers1k1(https://github.com/pers1k1);
 
-linux front — pers1k1(https://github.com/pers1k1);
+windows front — pers1k1(https://github.com/pers1k1);
 
 macOS front — Muxa03(https://github.com/Muxa03);
 
-Android front — Muxa03(https://github.com/Muxa03);
+android front — Muxa03(https://github.com/Muxa03);
 
-Backend — Muxa03(https://github.com/Muxa03);
+backend — Muxa03(https://github.com/Muxa03);
